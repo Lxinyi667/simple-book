@@ -43,6 +43,7 @@
             
             
         </div>
+        
         <!-- s -->
          <!-- 以及二级菜单所对应的页面 -->
          <main class="cont">
@@ -108,6 +109,7 @@
     list-style: none;
     text-decoration: none;
     color: black;
+    margin: 0 auto;
 }
 .aside{
     margin:30px 40px;

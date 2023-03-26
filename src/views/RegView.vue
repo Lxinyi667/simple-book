@@ -3,7 +3,7 @@
       <h1>简书</h1>
       <div class="body">
         <div class="left">
-          <img src="src\assets\images\iphone.png" alt="" class="imgiphone">
+          <img src="../assets/images/iphone.png" alt="" class="imgiphone">
           <div class="iphonedown">
             <a class="downl" href="https://www.jianshu.com/apps?%20utm_medium=desktop&utm_source=sign_in_page_click">下载简书APP</a>
           </div>
